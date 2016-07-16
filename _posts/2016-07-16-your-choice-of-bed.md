@@ -1,17 +1,21 @@
 ---
 description: Your choice of bed
-dateModified: '2016-07-16T10:24:29.407Z'
-datePublished: '2016-07-16T10:25:25.557Z'
+dateModified: '2016-07-16T15:57:02.358Z'
+datePublished: '2016-07-16T15:57:04.063Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-07-16-your-choice-of-bed.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d42fce-8cbc-4cf8-ba7e-5d90771118f9.jpg
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d42fce-8cbc-4cf8-ba7e-5d90771118f9.jpg)
+
 Your choice of bed
 
 * [a dorm bed][0] in our 19 or 40 bed dorms
