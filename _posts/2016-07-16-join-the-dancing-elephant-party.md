@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-16T15:57:41.414Z'
+datePublished: '2016-07-16T16:04:47.121Z'
 sourcePath: _posts/2016-07-16-join-the-dancing-elephant-party.md
 isBasedOnUrl: 'https://youtu.be/VdtaUNfb42k'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-16T15:57:15.577Z'
+dateModified: '2016-07-16T16:01:52.874Z'
 title: Join the Dancing Elephant Party!
 app_links: []
 publisher:
@@ -13,7 +13,7 @@ publisher:
   name: YouTube
   favicon: 'https://www.youtube.com/favicon.ico'
   domain: youtu.be
-description: Uploaded by petermacraeuk on 2016-07-16.
+description: ''
 starred: false
 inFeed: true
 hasPage: false
