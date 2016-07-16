@@ -1,4 +1,4 @@
-typography_spectrum: 0.4317130863200873
+typography_spectrum: 0.7383778088260442
 color:
   brandStrength: 0.703438984695822
   lightness: 0.9648386233020574
@@ -10,7 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.4452738424297422
+layout_spectrum: 0.19837768282741308
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/811ab5bc-f33a-4ef7-9def-0100d8a6cd53.jpg
 name: Dancing Elephant
