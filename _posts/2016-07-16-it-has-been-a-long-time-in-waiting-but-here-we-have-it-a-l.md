@@ -38,11 +38,11 @@ app_links:
     app_name: Facebook
     app_store_id: '284882215'
 isBasedOnUrl: 'https://www.facebook.com/DancingElephantHostel/videos/2696223880424785/'
-datePublished: '2016-07-16T10:59:38.835Z'
-dateModified: '2016-07-16T10:59:13.289Z'
-starred: false
+datePublished: '2016-07-16T15:57:03.578Z'
+dateModified: '2016-07-16T15:57:01.894Z'
 sourcePath: >-
   _posts/2016-07-16-it-has-been-a-long-time-in-waiting-but-here-we-have-it-a-l.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
