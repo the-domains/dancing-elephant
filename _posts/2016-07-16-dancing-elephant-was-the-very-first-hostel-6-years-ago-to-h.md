@@ -5,15 +5,15 @@ description: >-
   Moon Village, a bustling, multi-cultural party spot.Surrounded by beautiful
   beaches and people. Only a 1 minute jog from the actual Full Moon Party
   putting you in the best location possible!
-dateModified: '2016-07-16T15:57:02.259Z'
-datePublished: '2016-07-16T15:57:03.928Z'
+dateModified: '2016-07-16T15:57:08.714Z'
+datePublished: '2016-07-16T15:57:10.653Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-07-16-dancing-elephant-was-the-very-first-hostel-6-years-ago-to-h.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdec387f-5ed4-4ac3-807a-31f82f40ae04.jpg
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
