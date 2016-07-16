@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dancing Elephant]]></title>
         <description><![CDATA[Dancing Elephant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dancing-elephant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 10:21:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 10:34:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dancing-elephant/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7d0ef87-61c5-4ce2-b937-50abd812798d.jpg">]]></description>
+            <link>https://thegrid.ai/dancing-elephant/253edf31-ba33-43cf-9ca2-4266c94b6a36/index.html</link>
+            <guid isPermaLink="false">253edf31-ba33-43cf-9ca2-4266c94b6a36</guid>
+            <pubDate>Sat, 16 Jul 2016 10:34:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a219d10d-e813-4c4a-89db-808a4ea687c0.jpg">]]></description>
-            <link>undefined459d2188-fb0e-4e56-923b-33bfb35165a5/index.html</link>
+            <link>https://thegrid.ai/dancing-elephant/459d2188-fb0e-4e56-923b-33bfb35165a5/index.html</link>
             <guid isPermaLink="false">459d2188-fb0e-4e56-923b-33bfb35165a5</guid>
             <pubDate>Sat, 16 Jul 2016 10:20:51 GMT</pubDate>
         </item>
