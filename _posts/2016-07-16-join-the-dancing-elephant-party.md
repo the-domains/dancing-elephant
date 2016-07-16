@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-07-16T15:47:06.683Z'
+datePublished: '2016-07-16T15:57:03.214Z'
 sourcePath: _posts/2016-07-16-join-the-dancing-elephant-party.md
 isBasedOnUrl: 'https://youtu.be/VdtaUNfb42k'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-16T15:47:05.878Z'
+dateModified: '2016-07-16T15:57:01.446Z'
 title: Join the Dancing Elephant Party!
 app_links: []
 publisher:
