@@ -1,17 +1,29 @@
-typography_spectrum: 0.7383778088260442
-color:
-  brandStrength: 0.703438984695822
-  lightness: 0.9648386233020574
-  saturation: 0.051213987870141864
-  rhythmicContrast: 0.5546394733246416
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-layout_spectrum: 0.19837768282741308
+title: Koh Phangan's First Party Hostel
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/f56a3904-dbcb-45c4-a09f-97d957cd9017.jpg
+color:
+  saturation: 0.05121398787014186
+  brandStrength: 0.703438984695822
+  lightness: 0.9648386233020574
+  brandColors:
+    - '#060503'
+    - '#676E80'
+    - '#FF6C0C'
+    - '#FFFEFF'
+    - '#55D539'
+  rhythmicContrast: 0.5546394733246416
+typography_spectrum: 0.7383778088260442
+layout_spectrum: 1
 name: Dancing Elephant
-title: Koh Phangan's First Party Hostel
