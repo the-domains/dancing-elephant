@@ -1,13 +1,13 @@
 ---
 description: Your choice of bed
-dateModified: '2016-07-16T15:57:02.358Z'
-datePublished: '2016-07-16T15:57:04.063Z'
+dateModified: '2016-07-16T15:57:09.005Z'
+datePublished: '2016-07-16T15:57:10.824Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-16-your-choice-of-bed.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2d42fce-8cbc-4cf8-ba7e-5d90771118f9.jpg
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
